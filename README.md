@@ -4,7 +4,7 @@ This repo is a minimal reproduction of a rollup code-splitting issue.
 
 Run `yarn build` to build the chunks. They are outputted to the `public` folder.
 
-Run `yarn start` to start an http server on port 8080. Navigate to http://localhost:8080 to see the runtime error from the malformed chunks.
+Run `yarn start` to start an http server on port 8080. Navigate to http://localhost:8080 to see the runtime error from the malformed entry point.
 
 ## Details
 
